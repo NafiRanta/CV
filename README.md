@@ -1,1 +1,2 @@
-# CV
+# ABOUT
+I have a Diploma in IT (2001-2004) and Degree in Psychology (2005-2009). For the past 10 years, I worked in the civil sector with focus in human rights of persons with disabilities. I decided to put my old foot back in IT and currently a student at grit:Lab https://gritlab.ax/ for a 2-year full-stack development program. Look forward to using technology to create sustainable and inclusive solutions/experiences/products/processes. 
